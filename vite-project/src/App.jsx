@@ -239,7 +239,113 @@ function App() {
           </div>
         </div>
 
-        <div class="leaders-ink-section">
+
+        <div class="container1">
+    <div class="banner">
+    <img src="/guess.jpg" alt="miniso" className="Food-img" />
+    </div>
+
+    <div class="content">
+
+        <div class="left-column">
+            <h2>Fashion & Lifestyle</h2>
+            <div className='articals'>
+              <div className='articalL'>
+            <div class="article">
+            <img src="/fils.jpg" alt="fila" className="Food-img" />
+            <div class="info">
+                    <span class="tag">FASHION | FOOD</span>
+                    <h3>What makes Fila unique is its attitude and...</h3>
+                    <p>The singer-songwriter has been spotted in the hybrid garment...</p>
+                    <span class="hashtag">#fashion</span>
+                </div>
+            </div>
+            <div class="article">
+            <img src="/BW1.jpg" alt="miniso" className="Food-img" />
+            <div class="info">
+                    <span class="tag">SHAILESH | FASHION</span>
+                    <h3>Fashion brand icons: Shailesh
+                    Chaturvedi of Arvind Fashions</h3>
+                    <p>The Gucci loafer has been a signature style for 70 years.</p>
+                    <span class="hashtag">#fashion</span>
+                </div>
+            </div>
+            <div class="article">
+            <img src="/BW2.jpg" alt="miniso" className="Food-img" />
+            <div class="info">
+                    <span class="tag">LIFESTYLE | FASHION</span>
+                    <h3>Fashion brand icons: Shailesh Chaturvedi of Arvind Fashions</h3>
+                    <p>BTS attended the 2022 Grammy Awards in complementary ...</p>
+                    <span class="hashtag">#fashion</span>
+                </div>
+            </div>
+              </div> 
+
+              <div className='articalr'>
+            <div class="article">
+            <img src="/sid.jpg" alt="fila" className="Food-img" />
+            <div class="info">
+                    <span class="tag">FASHION | FOOD</span>
+                    <h3>What makes Fila unique is its attitude and...</h3>
+                    <p>The singer-songwriter has been spotted in the hybrid garment...</p>
+                    <span class="hashtag">#fashion</span>
+                </div>
+            </div>
+            <div class="article">
+            <img src="/cloths.jpg" alt="miniso" className="Food-img" />
+            <div class="info">
+                    <span class="tag">SIDDHANT | FASHION</span>
+                    <h3>French Connection announces Siddhant Chaturvedi as...</h3>
+                    <p>The singer-songwriter has been spotted in the hybrid garment...</p>
+                    <span class="hashtag">#fashion</span>
+                </div>
+            </div>
+            <div class="article">
+            <img src="/image 21.jpg" alt="miniso" className="Food-img" />
+            <div class="info">
+                    <span class="tag">Fashion | Retailer</span>
+                    <h3>Indian fashion retailers to witness revenue ...</h3>
+                    <p>The singer-songwriter has been spotted in the hybrid garment...</p>
+                    <span class="hashtag">#fashion</span>
+             </div>
+
+            </div>
+           
+              </div> 
+
+            </div>
+        </div>
+
+        <div class="right-column">
+            <h2>Beauty & Wellness</h2>
+            <div class="sidebar-item">
+                <span class="tag">BEAUTY | NEWS</span>
+                <img src="/suger.jpg" alt="miniso" className="Food-img" />
+                <p className='be-co'> Sugar Cosmetics unveils its 200th brand-owned store</p>
+            </div>
+
+            <div class="sidebar-item">
+                <span class="tag">WELLNESS | NEWS</span>
+                <img src="/athiya.jpg" alt="miniso" className="Food-img" />
+                <p className='be-co'>Athiya Shetty becomes the face of Just Herbs...</p>
+            </div>
+
+            <div class="sidebar-item">
+                <span class="tag">WELLNESS | NEWS</span>
+                <img src="/saraa.jpg" alt="miniso" className="Food-img" />
+                <p className='be-co'>Indian stars dazzle at Cannes 2023</p>
+            </div>
+
+            <div class="sidebar-item">
+                <span class="tag">WELLNESS | NEWS</span>
+                <img src="/truck.jpg" alt="miniso" className="Food-img" />
+                <p className='be-co'>Athiya Shetty becomes the face of Just Herbs...</p>
+            </div>
+        </div>
+       </div>
+      </div>
+
+      <div class="leaders-ink-section">
           <h2 className='Leaders-head'>Food & beverage</h2>
           <div class="leaders">
             <div class="leaders-item">
@@ -272,7 +378,252 @@ function App() {
           </div>
         </div>
 
+        <div class="container1">
 
+    <div class="content">
+
+        <div class="left-column">
+            <h2>E-COMMERCE</h2>
+            <div className='articals'>
+              <div className='articalL'>
+            <div class="article">
+            <img src="image 19.jpg" alt="fila" className="Food-img" />
+            <div class="info">
+                    <span class="tag">FASHION | FOOD</span>
+                    <h3>What makes Fila unique is its attitude and...</h3>
+                    <p>Composable commerce opens new avenues for brands to thrive...</p>
+                    <span class="hashtag">#fashion</span>
+                </div>
+            </div>
+            <div class="article">
+            <img src="/image 20.jpg" alt="miniso" className="Food-img" />
+            <div class="info">
+                    <span class="tag">SHAILESH | FASHION</span>
+                    <h3>ONDC has completely automated grievance </h3>
+                    <p>ONDC is also enabling an online resolution mechanism apart....</p>
+                    <span class="hashtag">#fashion</span>
+                </div>
+            </div>
+            <div class="article">
+            <img src="/ip.jpg" alt="miniso" className="Food-img" />
+            <div class="info">
+                    <span class="tag">LIFESTYLE | FASHION</span>
+                    <h3>Shiprocket seller app integrates with ONDC  </h3>
+                    <p>Shiprocket plans to enable five key categories on ONDC...</p>
+                    <span class="hashtag">#fashion</span>
+                </div>
+            </div>
+              </div> 
+
+              <div className='articalr'>
+            <div class="article">
+            <img src="/BW1.jpg" alt="fila" className="Food-img" />
+            <div class="info">
+                    <span class="tag">FASHION | FOOD</span>
+                    <h3>Fashion brand icons: Shailesh   Chaturvedi of Arvind Fashions</h3>
+                    <p>IndiaRetailing brings you a series in which we highlight...</p>
+                    <span class="hashtag">#fashion</span>
+                </div>
+            </div>
+            <div class="article">
+            <img src="/BW2.jpg" alt="miniso" className="Food-img" />
+            <div class="info">
+                    <span class="tag">SIDDHANT | FASHION</span>
+                    <h3>Zouk marries heritage with functionality</h3>
+                    <p>IndiaRetailing brings you a series in which we highlight...</p>
+                    <span class="hashtag">#fashion</span>
+                </div>
+            </div>
+            <div class="article">
+            <img src="/image 21 (1).jpg" alt="miniso" className="Food-img" />
+            <div class="info">
+                    <span class="tag">Fashion | Retailer</span>
+                    <h3>FNP (Ferns N Petals) appoints Ashish Goel as...</h3>
+                    <p>Goel will spearhead the company's technological..</p>
+                    <span class="hashtag">#fashion</span>
+             </div>
+
+            </div>
+           
+              </div> 
+
+            </div>
+        </div>
+
+        <div class="right-column">
+            <h2>PEOPLE</h2>
+            <div class="sidebar-item">
+                <span class="tag">BEAUTY | NEWS</span>
+                <img src="/d2c.jpg" alt="miniso" className="Food-img" />
+                <p className='be-co'> Sugar Cosmetics unveils its 200th brand-owned store</p>
+            </div>
+
+            <div class="sidebar-item">
+                <span class="tag">WELLNESS | NEWS</span>
+                <img src="/2g.jpg" alt="miniso" className="Food-img" />
+                <p className='be-co'>Athiya Shetty becomes the face of Just Herbs...</p>
+            </div>
+
+            <div class="sidebar-item">
+                <span class="tag">WELLNESS | NEWS</span>
+                <img src="/summit.jpg" alt="miniso" className="Food-img" />
+                <p className='be-co'>Indian stars dazzle at Cannes 2023</p>
+            </div>
+
+        </div>
+    </div>
+      </div>
+
+      <div class="banner">
+    <img src="/image 72.jpg" alt="miniso" className="Food-img" />
+    </div>
+
+    <div class="content">
+
+<div class="left-column">
+    <h2>Fashion & Lifestyle</h2>
+    <div className='articals'>
+      <div className='articalL'>
+    <div class="article">
+    <img src="/uncle.jpg" alt="fila" className="Food-img" />
+    <div class="info">
+            <span class="tag">FASHION | FOOD</span>
+            <h3>Ecom Express appoints  Ajay Chitkara as...</h3>
+            <p>The singer-songwriter has been spotted in the hybrid garment...</p>
+            <span class="hashtag">#fashion</span>
+        </div>
+    </div>
+    <div class="article">
+    <img src="/truck.jpg" alt="miniso" className="Food-img" />
+    <div class="info">
+            <span class="tag">SHAILESH | FASHION</span>
+            <h3>DTDC sets up super hub
+            in...</h3>
+            <p>The Gucci loafer has been a signature style for 70 years.</p>
+            <span class="hashtag">#fashion</span>
+        </div>
+    </div>
+    <div class="article">
+    <img src="/dpot.jpg" alt="miniso" className="Food-img" />
+    <div class="info">
+            <span class="tag">LIFESTYLE | FASHION</span>
+            <h3>KSH Distriparks bolsters its  fleet with...</h3>
+            <p>BTS attended the 2022 Grammy Awards in complementary ...</p>
+            <span class="hashtag">#fashion</span>
+        </div>
+    </div>
+      </div> 
+
+      <div className='articalr'>
+    <div class="article">
+    <img src="/image 19 (1).jpg" alt="fila" className="Food-img" />
+    <div class="info">
+            <span class="tag">FASHION | FOOD</span>
+            <h3>Voyage Eyewear  collaborates with actor...</h3>
+            <p>The singer-songwriter has been spotted in the hybrid garment...</p>
+            <span class="hashtag">#fashion</span>
+        </div>
+    </div>
+    <div class="article">
+    <img src="/crowd.jpg" alt="miniso" className="Food-img" />
+    <div class="info">
+            <span class="tag">SIDDHANT | FASHION</span>
+            <h3>French Connection announces Siddhant Chaturvedi as...</h3>
+            <p>From Yogathons to special  offers, here’s a quick...</p>
+            <span class="hashtag">#fashion</span>
+        </div>
+    </div>
+    <div class="article">
+    <img src="/jntr.jpg" alt="miniso" className="Food-img" />
+    <div class="info">
+            <span class="tag">Fashion | Retailer</span>
+            <h3>Indian fashion retailers to witness revenue ...</h3>
+            <p>Malabar Gold & Diamonds ropes...</p>
+            <span class="hashtag">#fashion</span>
+     </div>
+
+    </div>
+   
+      </div> 
+
+    </div>
+</div>
+
+<div class="right-column">
+    <h2>Beauty & Wellness</h2>
+    <div class="sidebar-item">
+        <span class="tag">BEAUTY | NEWS</span>
+        <img src="/uncle.jpg" alt="miniso" className="Food-img" />
+        <p className='be-co'> Sugar Cosmetics unveils its 200th brand-owned store</p>
+    </div>
+
+    <div class="sidebar-item">
+        <span class="tag">WELLNESS | NEWS</span>
+        <img src="/thrd.jpg" alt="miniso" className="Food-img" />
+        <p className='be-co'>Athiya Shetty becomes the face of Just Herbs...</p>
+    </div>
+
+    <div class="sidebar-item">
+        <span class="tag">WELLNESS | NEWS</span>
+        <img src="/rack.jpg" alt="miniso" className="Food-img" />
+        <p className='be-co'>Indian stars dazzle at Cannes 2023</p>
+    </div>
+
+    <div class="sidebar-item">
+        <span class="tag">WELLNESS | NEWS</span>
+        <img src="/agri.jpg" alt="miniso" className="Food-img" />
+        <p className='be-co'>Athiya Shetty becomes the face of Just Herbs...</p>
+    </div>
+</div>
+    </div>
+
+    <div class="leaders-ink-section">
+          <h2 className='Leaders-head'>CASE & STUDY</h2>
+          <div class="leaders">
+            <div class="leaders-item">
+              <img src="/wowMomo.jpg" alt="wowMomo" className="Food-img" />
+              <h3>Wow! Momo Foods enters Bhopal <br />with Wow! Momo, Wow China</h3>
+              <p>Arundhati Roy</p>
+            </div>
+            <div class="leaders-item">
+              <img src="/shoe.jpg" alt="stock" className="Food-img" />
+              <h3>Barista Coffee Company opens  <br />its first café in Ahmedabad</h3>
+              <p>#Life Style</p>
+            </div>
+            <div class="leaders-item">
+              <img src="/image 14.jpg" alt="miniso" className="Food-img" />
+              <h3>Good Flippin’ Burgers raises <br /> $4 Million in Series A Round</h3>
+              <p>#Life Style</p>
+            </div>
+
+            <div class="leaders-item">
+              <img src="/jack.jpg" alt="miniso" className="Food-img" />
+              <h3>How Keventers is milking <br />milkshakes business opportunity</h3>
+              <p>#Life Style</p>
+            </div>
+
+            <div class="leaders-item">
+              <img src="/bbq.jpg" alt="miniso" className="Food-img" />
+              <h3>Uniqlo India’s Success Mantra:  <br />Making headway...</h3>
+              <p>#Life Style</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="banner">
+    <img src="/image 72.jpg" alt="miniso" className="Food-img" />
+    </div>
+
+    <footer>
+      <div>
+        <div>
+      <img src="/logo.jpg" alt="miniso" className="footer-img" />
+      </div>
+      <div>
+        <p></p>
+      </div>
+      </div>
+    </footer>
       </div>
     </>
   );
